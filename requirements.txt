@@ -5,3 +5,4 @@ openai
 rapidocr_onnxruntime
 keyboard
 pystray
+pywin32
