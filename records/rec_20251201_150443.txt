@@ -1,4 +1,0 @@
-D:\unity\Image
-eText\Image
-eTextPro>py
-app.py

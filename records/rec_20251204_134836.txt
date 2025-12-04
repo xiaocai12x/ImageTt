@@ -1,9 +1,0 @@
-logs
-printscreen
-records
-app.py
-y-notes
-config.json
-e- RPG
-icon.ico
-icon.pna

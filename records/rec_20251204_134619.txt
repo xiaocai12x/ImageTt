@@ -1,8 +1,0 @@
-logs
-printscreen
-records
-app.py
-config.json
-icon.ico
-icon.png
-run.bat
