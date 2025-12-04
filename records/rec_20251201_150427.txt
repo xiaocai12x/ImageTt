@@ -1,0 +1,24 @@
+看起来你是在Windows的命令行中运行Python脚本。不过，你提供的路径和命令有些格式问题。让我帮你整理一下：
+
+根据你输入的内容，你似乎想运行位于 `D:\unity\Image eText\Image eTextPro` 目录下的 `app.py` 文件。
+
+正确的命令应该是：
+
+```bash
+cd "D:\unity\Image eText\Image eTextPro"
+python app.py
+```
+
+或者直接运行：
+
+```bash
+python "D:\unity\Image eText\Image eTextPro\app.py"
+```
+
+**如果遇到问题，请检查：**
+
+1. **Python是否正确安装**：在命令行输入 `python --version` 或 `python3 --version` 查看Python是否可用
+2. **文件路径是否正确**：确保 `app.py` 文件确实存在于该目录
+3. **权限问题**：确保你有权限访问该目录和文件
+
+如果你遇到具体的错误信息，请告诉我，我可以帮你进一步排查问题。

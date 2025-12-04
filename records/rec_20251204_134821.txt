@@ -1,0 +1,9 @@
+名称
+logs
+printscreen
+records
+ity-notes
+app.py
+se-RPG
+config.json
+icon.ico
